@@ -4,7 +4,7 @@
   "description": "simple beanstalk tutorial created to test out beanstalk service with node server",
   "main": "index.js",
   "scripts": {
-    "start": "PORT=5001 node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
